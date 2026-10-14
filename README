@@ -1,1 +1,14 @@
-
+# Python & Data Science -UPJV Amiens
+**Étudiant-e :** karelle soya
+**Formation :** L3 Économie / M1 Économie
+**Année:** 2026-2027
+## Description
+ce dépôt contient mes travaux dirigés du cours Python & Data Science réalisés sur Google colab.
+## Travaux dirigés 
+|TD| Sujet| statut|
+|----|-------|--------|
+|[TD1](td01_enonce.ipynb)|Introduction à git |:white_check_market: |
+|[TD2](td02_enonce.ipynb)|Introduction à Github | :white_check_mark: |
+|TD3| Les bases de python | :X: |
+## Crédits 
+Cours de M.Guéry - faculté d'Économie, UPJV
